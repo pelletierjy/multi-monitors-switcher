@@ -1,0 +1,29 @@
+﻿{
+    "GeneratedAt":  "2026-11-19T09:29:58",
+    "CenterId":  "\\\\.\\DISPLAY1",
+    "CenterModel":  "DELL U3421WE",
+    "SideIds":  [
+                    "\\\\.\\DISPLAY3",
+                    "\\\\.\\DISPLAY2"
+                ],
+    "Monitors":  [
+                     {
+                         "Id":  "\\\\.\\DISPLAY2",
+                         "Model":  "DELL U2717D",
+                         "Left":  3440,
+                         "Right":  4880
+                     },
+                     {
+                         "Id":  "\\\\.\\DISPLAY3",
+                         "Model":  "VG27WQ1B",
+                         "Left":  -2560,
+                         "Right":  0
+                     },
+                     {
+                         "Id":  "\\\\.\\DISPLAY1",
+                         "Model":  "DELL U3421WE",
+                         "Left":  0,
+                         "Right":  3440
+                     }
+                 ]
+}
